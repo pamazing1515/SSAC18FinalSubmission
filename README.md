@@ -1,6 +1,9 @@
 # SSAC18FinalSubmission
 Quantifying Defensive Sloppiness in the NBA- A project using applied linear regression to 2016-17 NBA play by play data in R/SAS
+
 Quantifying Defensive Sloppiness in Basketball
+
+
 I present the Basketball Defensive Sloppiness index, a newmethod to visualize and quantify Defensive Sloppinessin a game
 time situation, to make data-driven player rotational decisions. There is lack of research, currently, that presents how teams
 could utilize defensive statistics to evaluate a player’s defensive sloppiness, and eventuallymake teamdecisions that will
