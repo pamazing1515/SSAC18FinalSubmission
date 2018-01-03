@@ -31,3 +31,5 @@ variable such as, FG%(Field Goal), PPG (Average Points Per Game), depending on t
 wants to decide on.
 In conclusion, the Basketball Defensive Sloppiness can provide a much more sophisticated, yet interpretable lens into basketball
 player-tracking data, to better manage risks in each basketball game, and eventually financially impact the team franchise.
+
+![alt text](https://github.com/pamazing1515/SSAC18FinalSubmission/blob/master/SSAC18.JPG)
